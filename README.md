@@ -7,6 +7,9 @@ This software is under GNU General Public License version 3.0 (GPLv3).
 
 The project was tested in `WIN11(64bit)` and `MatlabR2022b` .
 
+Cite this article:
+Zhang, B., Zhu, Y., Cao, Y. et al. Kernel-based iVAT with adaptive cluster extraction. Knowl Inf Syst (2024). https://doi.org/10.1007/s10115-024-02189-1
+
 ## Reference
 [1]Wang, Liang. Enhanced Visual Analysis for Cluster Tendency Assessment and Data Partitioning[J]. IEEE Transactions on Knowledge & Data Engineering, 2010.
 
